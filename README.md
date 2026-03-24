@@ -7,6 +7,8 @@ npx create-expo-app@latest app_name
 
 ```
 ---
+## After that follow the official documentation to apply tailwindcss using nativewind ->  https://www.nativewind.dev/docs/getting-started/installation
+---
 
 ## Get started
 
